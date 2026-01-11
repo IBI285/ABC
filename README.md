@@ -1,3 +1,6 @@
+ESTE ES EL CODIGO DE LA PLATAFORMA ABACO
+
+
 <!doctype html>
 <html lang="es" class="h-full">
  <head>
